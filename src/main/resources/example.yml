@@ -1,0 +1,36 @@
+#this is a comment
+
+name: Marcin
+
+names: #comment
+  - Marcin
+  - John
+  - Paul
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "it's escaping quote"
+
+escape_colon: "escaped: colon"
+
+include_new_lines: |
+  adada lkjnasd laskjn
+  kjnad dekljd kajsb
+  lkns kjn qwkjn
+
+ignore_new_lines: >
+  this is just
+  one line long
+  string
